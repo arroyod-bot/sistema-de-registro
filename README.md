@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner ;
 
 '''npm install reactv'''
+
+Sistema de Registro 2 
